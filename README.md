@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Thakur</h1>
-<h3 align="center">This is my 1st year frontend project 😊 Covidinfo. I created this project during pandamic. I have tried to make this an information type web page But it seems that I have failed 🤔in many places So please contribute 🤝and try to make this page great one</h3>
+<h3 align="center">This is my 1st year frontend project 😊 Covidinfo. I created this project during pandamic. I have tried to make this an information type web page </h3>
 
 <hr>
 
